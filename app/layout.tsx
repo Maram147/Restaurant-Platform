@@ -10,7 +10,10 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "FoodHub - Restaurant Ordering Platform",
   description: "Order food from your favorite restaurants",
-    generator: 'v0.dev'
+   icons: {
+    icon: "/icon.svg",
+    
+  },
 }
 
 export default function RootLayout({
