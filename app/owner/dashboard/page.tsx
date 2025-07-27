@@ -1,8 +1,8 @@
-import { OwnerLayout } from "@/components/layout/owner-layout"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Badge } from "@/components/ui/badge"
-import { Button } from "@/components/ui/button"
-import { Progress } from "@/components/ui/progress"
+import { OwnerLayout } from "../../../components/layout/owner-layout"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "../../../components/ui/card"
+import { Badge } from "../../../components/ui/badge"
+import { Button } from "../../../components/ui/button"
+import { Progress } from "../../../components/ui/progress"
 import { DollarSign, ShoppingBag, Users, Clock, Star, AlertCircle, Plus } from "lucide-react"
 
 const stats = [

@@ -1,8 +1,8 @@
-import { CustomerLayout } from "@/components/layout/customer-layout"
-import { Card, CardContent } from "@/components/ui/card"
-import { Badge } from "@/components/ui/badge"
-import { Button } from "@/components/ui/button"
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import { CustomerLayout } from "../../../components/layout/customer-layout"
+import { Card, CardContent } from "../../../components/ui/card"
+import { Badge } from "../../../components/ui/badge"
+import { Button } from "../../../components/ui/button"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "../../../components/ui/tabs"
 import { Clock, MapPin, Star, RotateCcw } from "lucide-react"
 import Image from "next/image"
 

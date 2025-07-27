@@ -1,11 +1,11 @@
 "use client"
 
 import { useState } from "react"
-import { CustomerLayout } from "@/components/layout/customer-layout"
-import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Badge } from "@/components/ui/badge"
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import { CustomerLayout } from "../../../../components/layout/customer-layout"
+import { Button } from "../../../../components/ui/button"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "../../../../components/ui/card"
+import { Badge } from "../../../../components/ui/badge"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "../../../../components/ui/tabs"
 import { Star, Clock, Truck, Plus, Minus, Heart } from "lucide-react"
 import Image from "next/image"
 
