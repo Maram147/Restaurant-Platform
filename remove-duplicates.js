@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const directory = './public'; // غيرها حسب مجلد مشروعك
+const directory = './public'; 
 
 function removeDuplicateFiles(dir) {
   const files = fs.readdirSync(dir);
